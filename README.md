@@ -18,7 +18,7 @@ Welcome to my repository of data science projects! Here you'll find a collection
 
 - `project1/`: Contains files related to Project 1.
 - `project2/`: Contains files related to Project 2.
-- `project3/`: Contains files related to Project 3.
+- ...
 - `README.md`: You are here! Overview of the repository and projects.
 
 Each project directory includes:
