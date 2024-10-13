@@ -12,13 +12,11 @@ Welcome to my repository of data science projects! Here you'll find a collection
    - Description: Building a classification model to predict customer churn based on multiple features including services, customer account information, and demographic information.
    - Tools Used: Python, Scikit-learn, Seaborn, Matplotlib, Numpy, Jupyter Notebooks.
 
-...
 
 ## Repository Structure
 
 - `project1/`: Contains files related to Project 1.
 - `project2/`: Contains files related to Project 2.
-- ...
 - `README.md`: You are here! Overview of the repository and projects.
 
 Each project directory includes:
